@@ -19,8 +19,14 @@ button {
 	text-decoration: none;
 	cursor: default;
 }
+.navbar-menu {
+	margin-left: -16px;
+	margin-right: -16px;
+	margin-bottom: -8px;
+}
 .navbar-nav {
 	text-align: center;
+	background: #f8f2d9;
 }
 .nav-item {
 	font-size: 18px;
