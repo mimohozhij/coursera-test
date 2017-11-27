@@ -1,0 +1,44 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+button {
+	cursor: pointer;
+}
+.navbar {
+	border-bottom: 1px solid #ccc;
+}
+.navbar-brand {
+	font-size: 24px;
+	font-weight: 700;
+}
+.navbar-brand a {
+	color: inherit;
+}
+.navbar-brand a:hover {
+	text-decoration: none;
+	cursor: default;
+}
+.navbar-nav {
+	text-align: center;
+}
+.nav-item {
+	font-size: 18px;
+}
+.main {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.main__title {
+	margin-bottom: 30px;
+}
+.main-content {
+	padding: 15px;
+	background: #deebf9;
+}
+.main-content__title {
+	font-size: 28px;
+}
+.main-content__text:last-child {
+	margin-bottom: 0;
+}
