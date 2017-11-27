@@ -19,7 +19,7 @@ button {
 	text-decoration: none;
 	cursor: default;
 }
-.navbar-menu {
+#navbar-menu {
 	margin-left: -16px;
 	margin-right: -16px;
 	margin-bottom: -8px;
